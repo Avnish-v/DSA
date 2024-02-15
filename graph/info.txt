@@ -1,0 +1,41 @@
+graph -:  node/vertces  <- edges-> node/vertecs
+-------------------------------------------------------------------------------------
+examples -:  mutual firends on social network like insta follow request
+
+--------------------------------------------------------------------------------------
+the graph are four type  
+1. directed edges 
+2. undirect edges 
+3. directed graph 
+4. undirected graph 
+
+
+directed edges -: edges are directed  the nodes  which is one way connection
+undirected edges -:  it opposite two way connection 
+directed graph - :  means all nodes are point two other nodes
+undirect graph  - :  means nodes are not pointing two any nodes 
+
+--------------------------------------------------------------------------------------
+particular two the edge when directed graph
+1.indegree =  how many direction coming  inward two the nodes
+2. outdegree =  how many direction going outward
+
+----------------------------------------------------------------------------------------
+representation of graph 
+1. adjacency list - : mark nodes with the list  of its neighbour  we can use linked list
+2. adjacency matrix-  - : this is use to make matrix of  ij =  1 ;  
+
+
+               0-> 1
+// traversing algo 
+1. breadth first Search (BFS)
+2. Depth first Search (DFS)
+
+
+//Breadth first Search 
+
+we maintain two lists in the bfs visited list and explore 
+visited list  are the list each are already visited and 
+explore 
+
+ 

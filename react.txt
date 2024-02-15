@@ -1,0 +1,9 @@
+use memo
+ is used to memorize the thing which not change often we can usememo and wrap the operation and give the dependency array which cause to change the value
+ of memo;
+usememo(()=>{
+    //entry
+},[])
+
+
+useCallback 
